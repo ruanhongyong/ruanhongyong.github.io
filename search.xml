@@ -8,7 +8,7 @@
       <link href="/2024/10/11/rhy1/"/>
       <url>/2024/10/11/rhy1/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>这个虚拟机搭建可以说是三个综合任务中最简单的一个，跟着哔站教程搭建一路通畅<img src="/2024/10/11/rhy1/%E5%93%94%E7%AB%99%E6%95%99%E7%A8%8B.png" class="" title="alt text">唯一让我不满意的就是搭建虚拟机过程中下载某个软件让我花了39块巨款！（够我一天饭钱了）<br><img src="/rhy1/VMware.png" alt=""></p><img src="/2024/10/11/rhy1/%E8%99%9A%E6%8B%9F%E6%9C%BA.png" class="" title="alt text"><p>最后搭建的就是这样，感觉没什么难度，只能说哔站果然nb</p>]]></content>
+        <content type="html"><![CDATA[<p>这个虚拟机搭建可以说是三个综合任务中最简单的一个，跟着哔站教程搭建一路通畅<img src="/2024/10/11/rhy1/%E5%93%94%E7%AB%99%E6%95%99%E7%A8%8B.png" class="" title="alt text">唯一让我不满意的就是搭建虚拟机过程中下载某个软件让我花了39块巨款！（够我一天饭钱了）<br><img src="/rhy1/VMware.png" alt=""></p><img src="/2024/10/11/rhy1/%E8%99%9A%E6%8B%9F%E6%9C%BA.png" class="" title="alt text"><p>最后搭建的就是这样，感觉没什么难度，只能说哔站果然nb</p>]]></content>
       
       
       
@@ -21,7 +21,7 @@
       <link href="/2024/10/11/rhy/"/>
       <url>/2024/10/11/rhy/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><img src="/2024/10/11/rhy/%E4%B8%BB%E9%A2%98.png" class="" title="alt text"><p>我的第一个博客搭建可以说是处处撞南墙：作为新手小白，我查阅了各种视频资料，最后还是哔哩哔哩救了我（好用，推荐！）跟着视频学习我顺利的搭建了Github仓库（第一次听说）和我的博客。做到这里感觉博客搭建也就这样（飘了）。可对我来说真正头疼的是上传文章（后来发现只是个小问题。。）</p><img src="/2024/10/11/rhy/%E5%87%BA%E7%8E%B0%E9%94%99%E8%AF%AF.png" class="" title="alt text"><p>上面这行红字困扰了两个小时，每次要上传静态文件的时候总是和我说无法查阅到时区数据，直接给我干蒙了。ctrl+c点开提示链接出现了我一堆看不懂的英语，唯一看得懂的只有nodjes（破防了）。万般无奈我请求了文心一言大师，看到了第一句话我就知道问题出在哪里了<img src="/2024/10/11/rhy/%E5%8E%9F%E5%9B%A0.png" class="" title="alt text"><br>我的时区亚洲北京，这个时区不能被所有时区库支持，改成上海就行了!（真乌鱼了）<a href="rhy/OK%E4%BA%86%E5%97%B7.png">alt text</a><br>搞完这一切我也是成功上传了我的第一篇博客文章，真的是艰辛，提醒各位新手小白时区要改成亚洲上海！！！<br>那么我的心得就分享到这里，最后以vscode上面一句话来结束叭！</p><img src="/2024/10/11/rhy/%E5%B9%B8%E8%BF%90%E7%9A%84%E4%B8%80%E5%A4%A9.png" class="" title="alt text">]]></content>
+        <content type="html"><![CDATA[<img src="/2024/10/11/rhy/%E4%B8%BB%E9%A2%98.png" class="" title="alt text"><p>我的第一个博客搭建可以说是处处撞南墙：作为新手小白，我查阅了各种视频资料，最后还是哔哩哔哩救了我（好用，推荐！）跟着视频学习我顺利的搭建了Github仓库（第一次听说）和我的博客。做到这里感觉博客搭建也就这样（飘了）。可对我来说真正头疼的是上传文章（后来发现只是个小问题。。）</p><img src="/2024/10/11/rhy/%E5%87%BA%E7%8E%B0%E9%94%99%E8%AF%AF.png" class="" title="alt text"><p>上面这行红字困扰了两个小时，每次要上传静态文件的时候总是和我说无法查阅到时区数据，直接给我干蒙了。ctrl+c点开提示链接出现了我一堆看不懂的英语，唯一看得懂的只有nodjes（破防了）。万般无奈我请求了文心一言大师，看到了第一句话我就知道问题出在哪里了<img src="/2024/10/11/rhy/%E5%8E%9F%E5%9B%A0.png" class="" title="alt text"><br>我的时区亚洲北京，这个时区不能被所有时区库支持，改成上海就行了!（真乌鱼了）<a href="rhy/OK%E4%BA%86%E5%97%B7.png">alt text</a><br>搞完这一切我也是成功上传了我的第一篇博客文章，真的是艰辛，提醒各位新手小白时区要改成亚洲上海！！！<br>那么我的心得就分享到这里，最后以vscode上面一句话来结束叭！</p><img src="/2024/10/11/rhy/%E5%B9%B8%E8%BF%90%E7%9A%84%E4%B8%80%E5%A4%A9.png" class="" title="alt text">]]></content>
       
       
       
@@ -34,7 +34,7 @@
       <link href="/2024/09/19/hello-world/"/>
       <url>/2024/09/19/hello-world/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
       
       
@@ -58,10 +58,10 @@
     
     <entry>
       <title></title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
-        <content type="html"><![CDATA[<h2 id="–title-电影data：2025-1-17"><a href="#–title-电影data：2025-1-17" class="headerlink" title="–title:电影data：2025-1-17"></a>–<br>title:电影<br>data：2025-1-17</h2>]]></content>
+        <content type="html"><![CDATA[<h2 id="–title-音乐data-2025-1-17"><a href="#–title-音乐data-2025-1-17" class="headerlink" title="–title:音乐data:2025-1-17"></a>–<br>title:音乐<br>data:2025-1-17</h2>]]></content>
       
     </entry>
     
@@ -80,10 +80,10 @@
     
     <entry>
       <title></title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
       
-        <content type="html"><![CDATA[<h2 id="–title-音乐data-2025-1-17"><a href="#–title-音乐data-2025-1-17" class="headerlink" title="–title:音乐data:2025-1-17"></a>–<br>title:音乐<br>data:2025-1-17</h2>]]></content>
+        <content type="html"><![CDATA[<h2 id="–title-电影data：2025-1-17"><a href="#–title-电影data：2025-1-17" class="headerlink" title="–title:电影data：2025-1-17"></a>–<br>title:电影<br>data：2025-1-17</h2>]]></content>
       
     </entry>
     
